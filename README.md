@@ -2,7 +2,7 @@
 
 I'm Tomás Cassanelli, Astronomer and Prof. at Universidad de Chile!
 
-- My interests are optical and radio astonomy, their instruments 🔭, and transient phenomena 💥
+- My interests are optical and radio astonomy, their instruments 🔭, and sub-second transient phenomena 💥
 - I'm a member of the MWL at UChile and the CHIME/FRB Collaboration
 - 😄 Pronouns: He/Him
 - 📫 You can reach me at: tcassanelli _at_ ing.uchile.cl
